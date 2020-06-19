@@ -1,0 +1,22 @@
+screen 1: Position: 677, 402
+          Size: 366, 211
+
+screen 2: Position: 390, 395
+          Size: 249, 200
+
+
+screen 3: Position: 90, 366
+          Size: 300, 226
+
+screen 4: Position: 1089, 406
+          Size: 240, 189
+
+screen 5: Position: 1331, 388
+          Size: 279, 209
+top center: Position: 640, 330
+            Size: 445, 66
+top right:  Position: 1102, 290
+            Size: 475, 101
+top left:   Position: 138, 263
+            Size: 483, 120
+
