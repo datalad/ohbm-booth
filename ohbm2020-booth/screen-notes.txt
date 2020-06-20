@@ -1,3 +1,6 @@
+Position needs coorection by - 47 for Y.
+
+
 screen 1: Position: 677, 402
           Size: 366, 211
 
